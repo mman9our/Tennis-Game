@@ -1,5 +1,5 @@
 # Tennis-Game:fire:
->## This is my First Game Arcade Classic in JavaScript based on Canvas in HTML5.
+>### This is my First Game Arcade Classic in JavaScript based on Canvas in HTML5.
 
 ## Using:wave:
 - Canvas
